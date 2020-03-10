@@ -1,0 +1,7 @@
+This section includes data used for our project
+
+1.feature_dengue.csv -> This includes number of cases for three diseses namely Zika, Yellow Fever and Dengue based on Environmental parameters.
+
+2.dengue_classification.csv -> This includes dengue detection for a person based on certain parameters.It was used in our chatbot for giving immediate response to people.
+                                
+3.TwitterDengue.csv -> This includes real-time tweets gathered for classifying tweets into 3 labels namely DengueFocused, immediate attention and unimportant.
